@@ -3,11 +3,13 @@
 ### I'm a QA Engineer
 
 ### My CV
-[Link to my CV](https://krasnodar.hh.ru/resume/f5c1bb39ff0b8e0d210039ed1f33596c45464e)
+[Link to my CV](https://sochi.hh.ru/applicant/resumes/view?resume=f5c1bb39ff0b8e0d210039ed1f33596c45464e&customDomain=1)
 
 ### Testing Documentation
 Checklists
+
 Test-Suites and Test-Cases
+
 Bug-Reports
 
 ### Languages and tools
