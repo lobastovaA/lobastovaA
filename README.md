@@ -1,4 +1,4 @@
-(https://github.com/lobastovaA/lobastovaA/blob/main/assets/1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l.jpg)
+[https://github.com/lobastovaA/lobastovaA/blob/main/assets/1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l.jpg]
 
 ### I'm a QA Engineer
 
