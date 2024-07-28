@@ -1,4 +1,4 @@
-[![Header](https://github.com/lobastovaA/lobastovaA/blob/main/assets/1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l.jpg)]
+[![Header](https://github.com/lobastovaA/lobastovaA/commit/fcf80d946d7fa1551a8a86504ec05304dd31deea#diff-c1b858d79531ed49e6bc77713c559d13a9a7c00ab21a7dc0a5bcfe2d44a12d80)]
 
 ### I'm a QA Engineer
 
